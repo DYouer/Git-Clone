@@ -1,1 +1,1 @@
-# Git-Clone
+Creating a new branch is quick.
