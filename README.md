@@ -1,2 +1,2 @@
 Creating a new branch is quick.
-version 2
+this is a test.
